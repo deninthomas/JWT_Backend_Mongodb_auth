@@ -8,3 +8,6 @@ router.get('/profile', authenticate, (req, res) => {
 });
 
 module.exports = router;
+
+
+// user after auth show

@@ -7,3 +7,7 @@ router.post('/register', register);
 router.post('/login', login);
 
 module.exports = router;
+
+
+
+// Setting up the path for login and register

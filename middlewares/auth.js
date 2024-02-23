@@ -23,3 +23,8 @@ const authenticate = async (req, res, next) => {
 };
 
 module.exports = { authenticate };
+
+
+// token varification and Auth requird check phase
+
+// Need  to rewatch and verify how action is worked and token is created where is it stored and verify how it work
